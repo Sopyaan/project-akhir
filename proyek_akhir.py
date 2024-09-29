@@ -24,7 +24,6 @@ Original file is located at
 """
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Uploading the dataset
